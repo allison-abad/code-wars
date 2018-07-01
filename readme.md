@@ -1,5 +1,5 @@
 # code-wars
-This folder contains the daily code war practice problems  I have worked on, .
+This folder contains the daily code war practice problems  I have worked on.
 
 
 ## How It's Made:
