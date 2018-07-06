@@ -1,5 +1,5 @@
 # code-wars
-This folder contains the daily code war practice problems  I have worked on.
+This folder contains a file of daily algorithmic challenges completed. 
 
 
 ## How It's Made:
@@ -9,6 +9,6 @@ This folder contains the daily code war practice problems  I have worked on.
 For these practice problems I focus entirely on Javascript to solve the questions being asked. 
 
 ## Lessons Learned:
-The fact that there are multiple ways of solving a code war, it's important to maintain patience and always make sure you understand the question to properly answer it. Don't rush into answering the code problem, but instead read it again and break it down. With best practice you can solve without having multiple errors.
+There are multiple ways of solving a code war, it's important to maintain patience and always make sure you understand the question to properly answer it. Don't rush into answering the code problem, but instead read it again and break it down. With best practice you can solve without having multiple errors.
 # README.md
 # code-wars
