@@ -9,7 +9,8 @@ This folder contains a file of daily algorithmic challenges completed.
 
 For these practice problems I focus entirely on Javascript to solve the questions being asked. 
 
+
 ## Lessons Learned:
-There are multiple ways of solving a code war, it's important to maintain patience and always make sure you understand the question to properly answer it. Don't rush into answering the code problem, but instead read it again and break it down. With best practice you can solve without having multiple errors.
+Everyday stimulating my mind to become a better developer by coding and reviewing my code and from other software engineers. There are multiple ways of solving aan algorithmic question, it's important to maintain patience and always make sure you understand the question to properly answer it. Don't rush into answering the code problem, but instead reread problem and disect it.
 # README.md
 # code-wars
