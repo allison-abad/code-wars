@@ -1,6 +1,7 @@
 # code-wars
 This folder contains a file of daily algorithmic challenges completed. 
 
+![screen shot 2018-07-07 at 3 09 57 pm](https://user-images.githubusercontent.com/39247861/42413891-e3d46740-81f7-11e8-8491-772976e84ff8.png)
 
 ## How It's Made:
 
